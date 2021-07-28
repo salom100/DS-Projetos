@@ -11,5 +11,7 @@ Projetos de Regressão;
 Grande parte dos dados para a realização dos projetos aqui abordados são retirados de portais de compartilhamento de datasets, em especial do Kaggle, a fim de torna-los proximos a realidade aplicavel no campo trabalhista e academico no que diz respeito a Ciência de Dados.
 
 Kaggle
+
 Username: salomon abasto Macías 
+
 Link: https://www.kaggle.com/salomonabastomacas
